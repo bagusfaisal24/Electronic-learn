@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ElectronicLearn</string>
+    <string name="btn1">SK dan KD</string>
+    <string-array name="list_item">
+        <item>1. Button Materi untuk melihat sub materi</item>
+        <item>2. Button Latihan untuk  uji coba latihan soal</item>
+        <item>3. Button About untuk melihat profile pembuat aplikasi</item>
+        <item>4. Button Petunjuk untuk melihat cara penggunaan aplikasi ini</item>
+        <item>5. Button Sub materi Dapur berisi alat elektronik di dapur</item>
+        <item>6. Button Sub materi Ruangan berisi alat elektronik di ruangan</item>
+        <item>7. Button Sub materi kamar mandi berisi alat elektronik di kamar mandi</item>
+
+    </string-array>
+    <string-array name="data">
+        <item>NAMA  : BAGUS FAISAL KHAFIDZ</item>
+        <item>NIM   : 1400018127</item>
+        <item>UNIVERSITAS : UNIV AHMAD DAHLAN</item>
+        <item>ALAMAT  : TEGAL JAWA TENGAH</item>
+
+    </string-array>
+    <string name="button2003">Answer 2003</string>
+    <string name="button2004">Answer 2004</string>
+    <string name="button2005">Answer 2005</string>
+    <string name="button2006">Answer 2006</string>
+    <string name="title_activity_nav">Nav</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
